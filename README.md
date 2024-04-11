@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi world 👋
+⚡ Fun fact: i like codding!
 <!--
 **DemarchiFelipe/DemarchiFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
